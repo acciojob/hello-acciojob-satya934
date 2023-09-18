@@ -1,11 +1,11 @@
-main.accio#job {
+main{
 	width:150px;
 	height:150px;
-	background-color:black;
+	background-color: rbg(0, 0, 0);
 }
 .hello-accio {
 	color: white;
-    Leftmargin: 32px;
+    margin-left: 32px;
     Padding: 10px;
 }
 /* Your CSS Code here. */
